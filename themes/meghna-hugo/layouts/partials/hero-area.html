@@ -1,0 +1,27 @@
+{{ if .Site.Params.banner.enable }}
+{{"<!-- Welcome Slider-->" | safeHTML}}
+<section class="hero-area" style='background-image: url("{{ .Site.Params.banner.bgImage | absURL }}");'>
+    <div class="block">
+        <!-- {{with .Site.Params.banner.icon}}
+        <div class="video-button">
+            <i class="{{ . }}"></i>
+        </div>
+        {{ end }}
+       {{with .Site.Params.banner.heading}} <h1>{{ . }}</h1>{{ end }} -->
+       <!-- {{with .Site.Params.banner.content}} <p>{{ . }}</p> {{ end }} should be okay-->
+       <h2>{{with .Site.Params.banner.content}} {{ . }} {{ end }}
+        <span style="color: #ff6600;">{{with .Site.Params.banner.contentSpan}} {{ . }} {{ end }} </span>
+         {{with .Site.Params.banner.contentDan}} {{ . }} {{ end }}
+          <span style="color: #ff6600;">{{with .Site.Params.banner.contentSpanLagi}} {{ . }} {{ end }}</span>
+           {{with .Site.Params.banner.contentAnda}} {{ . }} {{ end }}
+       </h2>
+       <div>
+        <iframe width="864" height="486" src="{{with .Site.Params.banner.videoUrl}} {{ . }} {{ end }}" frameborder="0" allowfullscreen></iframe>
+       </div>
+       <!-- {{ if .Site.Params.banner.btn}}
+        <a data-scroll href="{{ .Site.Params.banner.btnURL}}" class="btn btn-transparent">{{ .Site.Params.banner.btnText}}</a>
+        {{ end }} -->
+    </div>
+</section>
+{{"<!-- /Welcome Slider-->" | safeHTML}}
+{{end}}

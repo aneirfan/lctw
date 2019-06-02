@@ -1,0 +1,28 @@
+enable : true
+heading : 2 Days Workshop
+headingSpan : Life Core Transformation
+investasi : 'Investasi normal :' 
+harga : Rp. 1.200.000
+early : "50 pendaftar pertama :"
+early2 : Diskon 50% (Rp. 600.000) + BONUS bawa 1 teman
+serviceItem :
+  - icon : tf-globe
+    title : BALI
+    tanggal : 06 - 07 Juli 2019
+    jam : 09.00 - 10.00
+    content : The ONE Legian
+    content2 : Jl. Raya Legian No. 117, Kuta, Badung, Bali
+    
+  - icon : tf-ion-laptop
+    title : Jakarta
+    tanggal : 20 - 21 Juli 2019
+    jam : 09.00 - 10.00
+    content : REDTOP Hotel and Convention Center
+    content2 : Jl. Pecenongan No. 72 RT 2/RW 4, Gambir, Jakarta Pusat
+    
+  - icon : tf-genius
+    title : Surabaya
+    tanggal : 03 - 04 Agustus 2019
+    jam : 09.00 - 10.00
+    content : Hotel Tunjungan, Surabaya
+    content2 : Jl. Tunjungan No.102-104, Kedungdoro, Tegalsari, Surabaya
