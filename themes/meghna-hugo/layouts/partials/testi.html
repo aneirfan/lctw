@@ -16,10 +16,9 @@
             {{"<!-- team member -->" | safeHTML}}
             <div class="col-lg-6 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
                 <div class="team-member">
-                    <div class="member-photo">
-                        {{"<!-- member photo -->" | safeHTML}}
+                    <div class="member-photo embed-responsive embed-responsive-16by9">
                         <!-- <img class="img-fluid" src="{{ .url | absURL }}" alt="Meghna"> -->
-                        <iframe width="510" height="287" src="{{ .alamat | absURL }}" frameborder="0" allowfullscreen></iframe>
+                        <iframe class="embed-responsive-item" src="{{ .alamat | absURL }}" frameborder="0" allowfullscreen></iframe>
                     </div>
                     <!-- <div>
                             <iframe width="510" height="287" src="{{ .url | absURL }}" frameborder="0" allowfullscreen></iframe>

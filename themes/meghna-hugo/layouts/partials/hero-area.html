@@ -15,8 +15,10 @@
           <span style="color: #ff6600;">{{with .Site.Params.banner.contentSpanLagi}} {{ . }} {{ end }}</span>
            {{with .Site.Params.banner.contentAnda}} {{ . }} {{ end }}
        </h2>
-       <div>
-        <iframe width="864" height="486" src="{{with .Site.Params.banner.videoUrl}} {{ . }} {{ end }}" frameborder="0" allowfullscreen></iframe>
+       <div class="col-lg-6" style="margin: auto;">
+       <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="{{with .Site.Params.banner.videoUrl}} {{ . }} {{ end }}" frameborder="0" allowfullscreen></iframe>
+       </div>
        </div>
        <!-- {{ if .Site.Params.banner.btn}}
         <a data-scroll href="{{ .Site.Params.banner.btnURL}}" class="btn btn-transparent">{{ .Site.Params.banner.btnText}}</a>
