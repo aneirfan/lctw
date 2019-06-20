@@ -1,53 +1,14 @@
 enable : true
-heading : Our
-headingSpan : Team
+heading : Pengisi
+headingSpan : Materi
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
-    designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-      
-  - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-      
-  - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-      
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  - image : images/team/ariesandi.png
+    name : Ariesandi Setyono., CHt
+    designation : Pendiri Academi Hipnoterapi Indonesia
+    description : Penulis buku laris Success Mastery, Ultimate Success, Instant Change Technique dan masih banyak lagi
+    pesan : Halo semuanya, salam SKRB – sehat kaya raya bahagia.
+    pesan1 : Saya seorang praktisi Hipnoterapis sejak tahun 2001, Personal and Corporate Life Coach, Pembicara Publik, Penulis 6 buku laris dan Pendiri Academi Hipnoterapi Indonesia
+    pesan2 : Melalui Academi Hipnoterapi Indonesia saya membantu individu dan perusahaan yang ingin menggali dan memaksimalkan potensi terpendamnya serta membebaskan diri dari berbagai hambatan mental, kebiasan buruk, serta berbagai penyakit psikosomatis serta fobia dan trauma. Juga melatih para praktisi yang ingin menjadikan hipnoterapis sebagai profesi utama yang menghasilkan puluhan juta rupiah per bulan sambil menolong orang lain
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"

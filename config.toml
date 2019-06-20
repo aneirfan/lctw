@@ -18,34 +18,34 @@ summaryLength = 10
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Jadwal"
     URL = "services"
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
+    name = "Testimoni"
+    URL = "testimoni"
     weight = 4
 
     [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
+    name = "Trainer"
+    URL = "trainer"
     weight = 5
 
-    [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
+#    [[menu.nav]]
+#    name = "Pricing"
+#    URL = "pricing"
+#    weight = 6
 
-    [[menu.nav]]
-    name = "Blog"
-    URL = "blog"
-    weight = 7
+#    [[menu.nav]]
+#    name = "Blog"
+#    URL = "blog"
+#    weight = 7
 
-    [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
-    weight = 8
+#    [[menu.nav]]
+#    name = "Contact"
+#    URL = "contact-us"
+#    weight = 8
 
 # Site params
 [params]
@@ -78,34 +78,34 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
+    title = "Ya!! Saya Mau Daftar"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
-    btnText = "Start a project with us"
+    btnText = "PENDAFTARAN"
 
     # counter
     [params.counter]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
+        title = "Alumni"
         icon = "tf-ion-android-happy"
-        count = "320"
+        count = "1000+"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
+        title = "Event"
         icon = "tf-ion-archive"
-        count = "565"
+        count = "50+"
 
         [[params.counter.counterItem]]
         title = "Positive feedback"
         icon = "tf-ion-thumbsup"
-        count = "95"
+        count = "100+"
 
         [[params.counter.counterItem]]
-        title = "Cups of Coffee"
+        title = "Kota"
         icon = "tf-ion-coffee"
-        count = "2500"
+        count = "3+"
 
     # footer
     [params.footer]

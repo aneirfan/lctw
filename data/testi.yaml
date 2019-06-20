@@ -1,0 +1,27 @@
+enable : true
+heading : Daftar
+headingSpan : Testimonial
+testiMember :
+  - image : images/team/ariesandi.png
+    alamat : https://www.youtube.com/embed/NpHDxXv78U4
+    name : Rudi M - Jakarta
+    designation : Pendiri Academi Hipnoterapi Indonesia
+    description : Penulis buku laris Success Mastery
+
+  - image : images/team/ariesandi.png
+    alamat : https://www.youtube.com/embed/_xbMN8IpbpM
+    name : Vito - Surabaya
+    designation : Pendiri Academi Hipnoterapi Indonesia
+    description : Penulis buku laris Success Mastery
+
+  - image : images/team/ariesandi.png
+    alamat : https://www.youtube.com/embed/Bqvyj6J15B0
+    name : Ariesandi Setyono., CHt
+    designation : Pendiri Academi Hipnoterapi Indonesia
+    description : Penulis buku laris Success Mastery
+
+  - image : images/team/ariesandi.png
+    alamat : https://www.youtube.com/embed/4s_6adfXoQ4
+    name : Ariesandi Setyono., CHt
+    designation : Pendiri Academi Hipnoterapi Indonesia
+    description : Penulis buku laris Success Mastery

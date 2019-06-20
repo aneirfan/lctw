@@ -10,19 +10,22 @@ serviceItem :
     title : BALI
     tanggal : 06 - 07 Juli 2019
     jam : 09.00 - 10.00
-    content : The ONE Legian
-    content2 : Jl. Raya Legian No. 117, Kuta, Badung, Bali
-    
+    content : SUN Boutique
+    content2 : Jl. Raya Legian No. 117, Kuta, Badung
+    kota : Bali
+
   - icon : tf-ion-laptop
     title : Jakarta
     tanggal : 20 - 21 Juli 2019
     jam : 09.00 - 10.00
     content : REDTOP Hotel and Convention Center
-    content2 : Jl. Pecenongan No. 72 RT 2/RW 4, Gambir, Jakarta Pusat
-    
+    content2 : Jl. Pecenongan No. 72 RT 2/RW 4, Gambir
+    kota : Jakarta
+
   - icon : tf-genius
     title : Surabaya
     tanggal : 03 - 04 Agustus 2019
     jam : 09.00 - 10.00
     content : Hotel Tunjungan, Surabaya
-    content2 : Jl. Tunjungan No.102-104, Kedungdoro, Tegalsari, Surabaya
+    content2 : Jl. Tunjungan No. 102-104, Tegalsari
+    kota : Surabaya

@@ -1178,6 +1178,12 @@ a:hover {
 .member-photo {
   overflow: hidden;
   position: relative;
+float:left;
+}
+
+.member-photo iframe {
+  overflow: hidden;
+  position: relative;
 }
 
 @media (max-width: 768px) {
@@ -1241,6 +1247,7 @@ a:hover {
 
 .member-meta {
   padding: 15px;
+float:left;
 }
 
 .member-meta h4 {

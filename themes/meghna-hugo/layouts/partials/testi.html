@@ -1,0 +1,42 @@
+{{ if .Site.Data.testi.enable}}
+{{"<!-- Start Our testi -->" | safeHTML}}
+<section id="testimoni" class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                {{"<!-- section title -->" | safeHTML}}
+                <div class="title text-center wow fadeInUp" data-wow-duration="500ms">
+                    <h2>{{ with .Site.Data.testi.heading }} {{ . }} {{ end }} <span class="color">{{ with .Site.Data.testi.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+            </div>
+            {{"<!-- /section title -->" | safeHTML}}
+
+            {{ range .Site.Data.testi.testiMember}}
+            {{"<!-- team member -->" | safeHTML}}
+            <div class="col-lg-6 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
+                <div class="team-member">
+                    <div class="member-photo">
+                        {{"<!-- member photo -->" | safeHTML}}
+                        <!-- <img class="img-fluid" src="{{ .url | absURL }}" alt="Meghna"> -->
+                        <iframe width="510" height="287" src="{{ .alamat | absURL }}" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                    <!-- <div>
+                            <iframe width="510" height="287" src="{{ .url | absURL }}" frameborder="0" allowfullscreen></iframe>
+                    </div> -->
+
+                    <!-- <iframe width="510" height="287" src="https://www.youtube.com/embed/NpHDxXv78U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+                    {{"<!-- member name & designation -->" | safeHTML}}
+                    <div class="member-meta">
+                        <h2>{{ .name }}</h2>
+                    </div>
+                </div>
+            </div>
+            {{"<!-- end testi member -->" | safeHTML}}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{"<!-- /testi -->" | safeHTML}}
+{{ end }}
