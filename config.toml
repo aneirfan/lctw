@@ -62,7 +62,7 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/liveacara.jpg"
     icon = "tf-ion-play"
     #heading = "Experience the new Platform"
     content= "Anda Benar-benar Mau Mempelajari Teknologi Pikiran Terbaru dan Tercanggih untuk"
@@ -80,7 +80,7 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Ya!! Saya Mau Daftar"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
+    btnURL = "https://www.ariesandi.com/product/life-core-transformation-workshop/"
     btnText = "PENDAFTARAN"
 
     # counter
@@ -94,7 +94,7 @@ custom_css = ["css/custom.css"]
 
         [[params.counter.counterItem]]
         title = "Event"
-        icon = "tf-ion-archive"
+        icon = "tf-ion-android-calendar"
         count = "50+"
 
         [[params.counter.counterItem]]
@@ -104,39 +104,27 @@ custom_css = ["css/custom.css"]
 
         [[params.counter.counterItem]]
         title = "Kota"
-        icon = "tf-ion-coffee"
+        icon = "tf-ion-android-home"
         count = "3+"
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "AHI"
+        copyrightURL = "https://www.ariesandi.com"
 
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://www.facebook.com/AriesandiCht/"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
+        url = "https://twitter.com/AriesandiCHt"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
+        url = "https://www.youtube.com/c/AriesandiCHt"
 
         [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        icon = "tf-ion-social-instagram"
+        url = "https://www.instagram.com/ariesandi_setyono/"
