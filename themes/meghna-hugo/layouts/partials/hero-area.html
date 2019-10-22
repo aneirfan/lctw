@@ -9,7 +9,7 @@
         {{ end }}
        {{with .Site.Params.banner.heading}} <h1>{{ . }}</h1>{{ end }} -->
        <!-- {{with .Site.Params.banner.content}} <p>{{ . }}</p> {{ end }} should be okay-->
-       <h2>{{with .Site.Params.banner.content}} {{ . }} {{ end }}
+       <h2 style="margin: 40px;">{{with .Site.Params.banner.content}} {{ . }} {{ end }}
         <span style="color: #ff6600;">{{with .Site.Params.banner.contentSpan}} {{ . }} {{ end }} </span>
          {{with .Site.Params.banner.contentDan}} {{ . }} {{ end }}
           <span style="color: #ff6600;">{{with .Site.Params.banner.contentSpanLagi}} {{ . }} {{ end }}</span>
