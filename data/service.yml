@@ -8,23 +8,23 @@ early2 : Diskon 50% (Rp. 600.000) + BONUS bawa 1 teman
 serviceItem :
   - icon : tf-globe
     title : BALI
-    tanggal : 06 - 07 Juli 2019
+    tanggal : 18 - 19 Januari 2020
     jam : 09.00 - 10.00
     content : SUN Boutique
-    content2 : Jl. Raya Legian No. 117, Kuta, Badung
+    content2 : Jl. Sunset Road No. 23, Kuta, Badung
     kota : Bali
 
   - icon : tf-ion-laptop
     title : Jakarta
-    tanggal : 20 - 21 Juli 2019
+    tanggal : 01 - 02 Februari 2020
     jam : 09.00 - 10.00
-    content : REDTOP Hotel and Convention Center
-    content2 : Jl. Pecenongan No. 72 RT 2/RW 4, Gambir
+    content : Four Points by Sheraton
+    content2 : Jl. MH Thamrin Kav 9
     kota : Jakarta
 
   - icon : tf-genius
     title : Surabaya
-    tanggal : 03 - 04 Agustus 2019
+    tanggal : 15 - 16 Februari 2020
     jam : 09.00 - 10.00
     content : Hotel Tunjungan, Surabaya
     content2 : Jl. Tunjungan No. 102-104, Tegalsari
