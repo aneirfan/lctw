@@ -111,6 +111,7 @@ custom_css = ["css/custom.css"]
     [params.footer]
         copyright = "AHI"
         copyrightURL = "https://www.ariesandi.com"
+        hati = "tf-ion-heart"
 
         # social Icons
         [[params.footer.socialIcon]]

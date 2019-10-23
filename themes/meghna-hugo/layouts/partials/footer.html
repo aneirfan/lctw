@@ -8,7 +8,7 @@
 				<div class="social-icon">
 					<ul class="list-inline">
 						{{ range .Site.Params.footer.socialIcon }}
-						<li class="list-inline-item"><a href="{{ .url }}"><i class="{{ .icon }}"></i></a></li>
+						<li class="list-inline-item"><a target="_blank" href="{{ .url }}"><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
 					</ul>
 				</div>
@@ -16,12 +16,12 @@
 				{{"<!-- copyright -->" | safeHTML}}
 				<div class="copyright text-center">
 					<a href="{{ .Site.BaseURL | absURL }}">
-						<img src="{{ .Site.Params.logo | absURL }}" alt="Meghna" />
+						<img src="{{ .Site.Params.logo | absURL }}" alt="logo" />
 					</a>
 					<br>
 					<p><!-- Design And Developed by <a href="{{ .Site.Params.footer.copyrightURL | absURL }}"> {{ with .Site.Params.footer.copyright }} {{ . }} {{ end }} </a>.  -->Copyright &copy; <script>
 							document.write(new Date().getFullYear())
-						</script>. All Rights Reserved.</p>
+						</script>. All Rights Reserved.<br>Made with &#10084; using <a href="https://gohugo.io/">Hugo</a></p>
 				</div>
 			</div>
 		</div>

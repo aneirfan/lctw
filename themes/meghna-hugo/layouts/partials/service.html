@@ -30,6 +30,24 @@
             {{"<!-- End Single Service Item -->" | safeHTML }}
             {{ end }}
         </div>
+
+        <!-- {{ range .Site.Data.about.aboutItem }}
+            
+            <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+                <div class="block">
+                    <div class="icon-box">
+                        {{with .icon}}<i class="{{ . }}"></i>{{ end }}
+                    </div>
+                    
+                    <div class="content text-center">
+                        {{ with .title }}<h3 class="ddd">{{ . }}</h3>{{ end }}
+                        {{ with .content}}  <p>{{ . }}</p>{{ end }}
+                    </div>
+                </div>
+            </div>
+            {{ end }} -->
+
+
         <div class="row">
             <div class="col-12 text-center" style="background-color: #edf000;padding: 30px 0;">
                 <h3>{{with .Site.Data.service.investasi}} {{ . }} {{ end }} <strong>{{with .Site.Data.service.harga}} {{ . }} {{ end }}</strong></h3>

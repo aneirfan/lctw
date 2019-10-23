@@ -6,7 +6,7 @@ harga : Rp. 1.200.000
 early : "50 pendaftar pertama :"
 early2 : Diskon 50% (Rp. 600.000) + BONUS bawa 1 teman
 serviceItem :
-  - icon : tf-globe
+  - icon : tf-map-pin
     title : BALI
     tanggal : 18 - 19 Januari 2020
     jam : 09.00 - 10.00
@@ -14,7 +14,7 @@ serviceItem :
     content2 : Jl. Sunset Road No. 23, Kuta, Badung
     kota : Bali
 
-  - icon : tf-ion-laptop
+  - icon : tf-map-pin
     title : Jakarta
     tanggal : 01 - 02 Februari 2020
     jam : 09.00 - 10.00
@@ -22,7 +22,7 @@ serviceItem :
     content2 : Jl. MH Thamrin Kav 9
     kota : Jakarta
 
-  - icon : tf-genius
+  - icon : tf-map-pin
     title : Surabaya
     tanggal : 15 - 16 Februari 2020
     jam : 09.00 - 10.00
