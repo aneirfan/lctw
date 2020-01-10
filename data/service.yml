@@ -9,7 +9,7 @@ serviceItem :
   - icon : tf-map-pin
     title : BALI
     tanggal : 22 - 23 Februari 2020
-    jam : 09.00 - 10.00
+    jam : 09.00 - 17.00
     content : SUN Boutique
     content2 : Jl. Sunset Road No. 23, Kuta, Badung
     kota : Bali
@@ -17,7 +17,7 @@ serviceItem :
   - icon : tf-map-pin
     title : Jakarta
     tanggal : 01 - 02 Februari 2020
-    jam : 09.00 - 10.00
+    jam : 09.00 - 17.00
     content : Four Points by Sheraton
     content2 : Jl. MH Thamrin Kav 9
     kota : Jakarta
@@ -25,7 +25,7 @@ serviceItem :
   - icon : tf-map-pin
     title : Surabaya
     tanggal : 07 - 08 Maret 2020
-    jam : 09.00 - 10.00
+    jam : 09.00 - 17.00
     content : Hotel Tunjungan, Surabaya
     content2 : Jl. Tunjungan No. 102-104, Tegalsari
     kota : Surabaya
