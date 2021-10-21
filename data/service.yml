@@ -4,7 +4,8 @@ headingSpan : Life Core Transformation
 investasi : 'Kegiatan LCTW ditunda hingga waktu yang belum ditentukan.' 
 # harga : Rp. 1.200.000
 early : "Cek produk ini sebagai gantinya"
-early2 : <a href="https://www.ariesandi.com/product/mind-reprogramming/">Mind Reprogramming</a>
+early2 : Mind Reprogramming
+url : https://www.ariesandi.com/product/mind-reprogramming/
 serviceItem :
   - icon : tf-map-pin
     title : BALI
