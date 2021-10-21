@@ -52,7 +52,8 @@
             <div class="col-12 text-center" style="background-color: #edf000;padding: 30px 0;">
                 <h3>{{with .Site.Data.service.investasi}} {{ . }} {{ end }} <strong>{{with .Site.Data.service.harga}} {{ . }} {{ end }}</strong></h3>
                 {{with .Site.Data.service.early}} <h3>{{ . }}</h3> {{ end }}
-                <h3><a href="{{with .Site.Data.service.url}}">{{with .Site.Data.service.early2}} {{ . }}</a></h3> {{ end }}
+                <h3><a href="{{ .Site.Data.service.url}}">{{with .Site.Data.service.early2}} {{ . }}</a></h3> {{ end }}
+
             </div>
         </div>
     </div>
