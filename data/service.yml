@@ -1,14 +1,14 @@
 enable : true
 heading : 2 Days Workshop
 headingSpan : Life Core Transformation
-investasi : 'Investasi normal :' 
-harga : Rp. 1.200.000
-early : "50 pendaftar pertama :"
-early2 : Diskon 50% (Rp. 600.000) + BONUS bawa 1 teman
+investasi : 'Kegiatan LCTW ditunda hingga waktu yang belum ditentukan.' 
+# harga : Rp. 1.200.000
+early : "Cek produk ini sebagai gantinya"
+early2 : <a href="https://www.ariesandi.com/product/mind-reprogramming/">Mind Reprogramming</a>
 serviceItem :
   - icon : tf-map-pin
     title : BALI
-    tanggal : 22 - 23 Februari 2020
+    tanggal : Coming Soon
     jam : 09.00 - 17.00
     content : SUN Boutique
     content2 : Jl. Sunset Road No. 23, Kuta, Badung
@@ -16,7 +16,7 @@ serviceItem :
 
   - icon : tf-map-pin
     title : Jakarta
-    tanggal : 01 - 02 Februari 2020
+    tanggal : Coming Soon
     jam : 09.00 - 17.00
     content : Four Points by Sheraton
     content2 : Jl. MH Thamrin Kav 9
@@ -24,7 +24,7 @@ serviceItem :
 
   - icon : tf-map-pin
     title : Surabaya
-    tanggal : 07 - 08 Maret 2020
+    tanggal : Coming Soon
     jam : 09.00 - 17.00
     content : Hotel Tunjungan, Surabaya
     content2 : Jl. Tunjungan No. 102-104, Tegalsari
