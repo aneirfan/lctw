@@ -80,7 +80,7 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Ya!! Saya Mau Daftar"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "https://www.ariesandi.com/tiket-lctw/"
+    btnURL = "https://www.ariesandi.com/product/life-core-transformation-workshop/"
     btnText = "PENDAFTARAN"
 
     # counter
