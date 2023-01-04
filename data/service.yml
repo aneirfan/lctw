@@ -11,17 +11,17 @@ serviceItem :
     title : BALI
     tanggal : Coming Soon
     jam : 09.00 - 17.00
-    content : SUN Boutique
-    content2 : Jl. Sunset Road No. 23, Kuta, Badung
+    content : Coming Soon
+    content2 : Coming Soon
     kota : Bali
 
   - icon : tf-map-pin
     title : Jakarta
     tanggal : 4 - 5 Februari 2023
     jam : 09.00 - 17.00
-    content : Four Points by Sheraton
-    content2 : Jl. MH Thamrin Kav 9
-    kota : Jakarta
+    content : D'Agape Meeting & Conference
+    content2 : Jl Cikopo Selatan No.KM 2.5, Gadog, Kec. Megamendung, Kabupaten Bogor, Jawa Barat
+    kota : Jawa Barat
 
   - icon : tf-map-pin
     title : Surabaya
